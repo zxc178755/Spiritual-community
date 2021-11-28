@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['toSearch',['$event']]]]]}}" class="search_con data-v-c4fb0db0" bindtap="__e"><icon class="icon data-v-c4fb0db0" style="{{'position:'+('absolute')+';'+('top:'+('14rpx')+';')+('left:'+('20rpx')+';')}}" type="search" size="38rpx" color="#5FA8D3"></icon></view>

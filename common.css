@@ -1,0 +1,53 @@
+page {
+	/* 基本样式 */
+	font-size: 28rpx;
+
+	/* 样式变量 */
+	--themeColor: #cae9ff;
+	--bgcColor: #f2f2f2;
+	--grey: #7f7f7f;
+}
+
+.container {
+	width: 100vw;
+	min-height: 100vh;
+	background-color: var(--bgcColor);
+}
+
+.fl {
+	float: left;
+}
+
+.fr {
+	float: right;
+}
+
+.clearfix::after {
+	content: "";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+
+button {
+	outline: none;
+	border: none;
+}
+
+.button {
+	position: relative;
+	text-align: center;
+}
+
+.button:active::after {
+	position: absolute;
+	top: 0;
+	left: 0;
+	content: "";
+	width: 100%;
+	height: 100%;
+	display: block;
+	background-color: rgba(241, 241, 241, 0.4)
+}
+

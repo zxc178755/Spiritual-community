@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['ClikcAvator',['$event']]]]]}}" class="avator_con" bindtap="__e"><image class="avator" src="../../../static/avator.png"></image></view>

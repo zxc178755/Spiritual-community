@@ -1,0 +1,101 @@
+
+.shelter.data-v-56332304 {
+	height: 100vh;
+	width: 100vw;
+	position: fixed;
+	top: 0;
+	z-index: 999;
+	left: 0;
+	background-color: rgba(0, 0, 0, 0.6);
+}
+.sideBar_con.data-v-56332304 {
+	height: 100vh;
+	width: 340rpx;
+	position: absolute;
+	top: 0;
+	left: 0rpx;
+	-webkit-transform: translateX(-90%);
+	        transform: translateX(-90%);
+	box-sizing: border-box;
+	border-top-right-radius: 10rpx;
+	background-color: #fff;
+}
+.shelter .show_sidebar.data-v-56332304 {
+	-webkit-animation: show-data-v-56332304 0.3s 0s forwards linear;
+	        animation: show-data-v-56332304 0.3s 0s forwards linear;
+}
+@-webkit-keyframes show-data-v-56332304 {
+from {
+		-webkit-transform: translateX(-90%);
+		        transform: translateX(-90%);
+}
+to {
+		-webkit-transform: translateX(-0%);
+		        transform: translateX(-0%);
+}
+}
+@keyframes show-data-v-56332304 {
+from {
+		-webkit-transform: translateX(-90%);
+		        transform: translateX(-90%);
+}
+to {
+		-webkit-transform: translateX(-0%);
+		        transform: translateX(-0%);
+}
+}
+.avator_con.data-v-56332304 {
+	padding: 20rpx 34rpx;
+	height: 154rpx;
+	background-color: #B1DDFE;
+	border-top-right-radius: 10rpx;
+}
+.avator_con image.data-v-56332304 {
+	width: 100rpx;
+	height: 100rpx;
+	border-radius: 50%;
+}
+.user_name.data-v-56332304 {
+	padding: 10rpx 0;
+	font-weight: bold;
+	width: 95%;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap;
+}
+.column_list.data-v-56332304 {
+	padding: 1.75vh 34rpx;
+}
+.item.data-v-56332304 {
+	border: 2rpx solid #ccc;
+	padding: 14rpx 16rpx;
+	border-radius: 8rpx;
+	height: 62rpx;
+	line-height: 62rpx;
+	margin-bottom: 16rpx;
+}
+.item.data-v-56332304:active {
+	background-color: #f5f5f5;
+}
+.item .iconfont.data-v-56332304 {
+	font-size: 56rpx;
+	color: #48b5f4;
+	position: relative;
+}
+.item .text.data-v-56332304 {
+	width: 158rpx;
+	text-align: center;
+	padding-right: 12rpx;
+}
+.login_out.data-v-56332304 {
+	position: absolute;
+	bottom: 1.8vh;
+	left: 30rpx;
+	width: 280rpx;
+	height: 80rpx;
+	color: #fff;
+	line-height: 80rpx;
+	background-color: #5fa8d3;
+	border-radius: 8rpx;
+}
+

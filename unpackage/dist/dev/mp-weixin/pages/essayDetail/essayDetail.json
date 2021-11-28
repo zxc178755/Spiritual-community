@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "详情",
+  "usingComponents": {
+    "key-words": "/components/keyWords/keyWords",
+    "sortway-bar": "/components/sortwayBar/sortwayBar",
+    "commons": "/pages/essayDetail/commons/commons",
+    "at-bottm": "/components/atBottom/atBottom"
+  }
+}

@@ -1,0 +1,96 @@
+
+.talk_con.data-v-6cc3d168 {
+	width: 100vw;
+}
+.talk_list.data-v-6cc3d168 {
+	width: 640rpx;
+	margin: 0 auto;
+	/* border: 1px solid red; */
+	margin-top: 60rpx;
+	padding-bottom: 40rpx;
+}
+.talk_card.data-v-6cc3d168 {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	/* background-color: #cae9ff; */
+	border-radius: 10rpx;
+	margin-bottom: 40rpx;
+	padding: 30rpx;
+	color: #1B4965;
+	min-height: 140rpx;
+	box-shadow: 8rpx 8rpx 12rpx 0 #b3b3b3;
+}
+.time.data-v-6cc3d168 {
+	margin-top: 16rpx;
+	text-align: right;
+}
+.movable_area.data-v-6cc3d168 {
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 10;
+	width: 100vw;
+	padding-top: 100rpx;
+}
+.write_talk_con.data-v-6cc3d168 {
+	width: 70rpx;
+	height: 70rpx;
+	padding: 13rpx;
+	background-color: #b1ddfe;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 90rpx;
+}
+.wirte_board.data-v-6cc3d168 {
+	position: fixed;
+	top: 0rpx;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	z-index: 99;
+	background-color: rgba(239, 239, 239, 0.4);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.write_box.data-v-6cc3d168 {
+	width: 660rpx;
+	height: 490rpx;
+	border-radius: 8rpx;
+	border: 2rpx solid #ccc;
+	padding: 30rpx;
+	box-sizing: border-box;
+	background-color: #fff;
+}
+.write_area.data-v-6cc3d168 {
+	border: 2rpx solid #ccc;
+	border-radius: 8rpx;
+	width: 600rpx;
+	height: 340rpx;
+	padding: 10rpx;
+	box-sizing: border-box;
+	font-size: 30rpx;
+	line-height: 40rpx;
+	color: #595959;
+}
+.buttons.data-v-6cc3d168 {
+	padding-top: 27rpx;
+}
+.button.data-v-6cc3d168 {
+	width: 140rpx;
+	height: 60rpx;
+	line-height: 60rpx;
+	font-size: 28rpx;
+	margin-left: 28rpx;
+	border-radius: 6rpx;
+}
+.cancel.data-v-6cc3d168 {
+	background-color: #d7d7d7;
+	color: #555555;
+}
+.publish.data-v-6cc3d168 {
+	background-color: #5fa8d3;
+	color: #fff;
+}
+

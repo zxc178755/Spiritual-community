@@ -1,0 +1,33 @@
+
+.keywords_con.data-v-212b0544 {
+	width: 700rpx;
+	margin: 0 auto;
+}
+.keywords_con .title.data-v-212b0544 {
+	color: #000;
+	font-size: 28rpx;
+	padding: 14rpx 0;
+}
+.group.data-v-212b0544 {
+	width: 720rpx;
+	display: flex;
+	flex-wrap: wrap;
+}
+.select_item.data-v-212b0544 {
+	height: 56rpx;
+	line-height: 56rpx;
+	padding: 0 26rpx;
+	margin-bottom: 22rpx;
+	margin-right: 12rpx;
+	color: #fff;
+	background-color: #c6c6c6;
+	color: white;
+	border-radius: 60rpx;
+}
+.select_item.data-v-212b0544:active {
+	background-color: #5FA8D3;
+}
+.colored .select_item.data-v-212b0544 {
+	background-color: #5FA8D3;
+}
+

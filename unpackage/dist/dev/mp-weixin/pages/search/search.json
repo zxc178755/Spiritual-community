@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "搜索",
+  "usingComponents": {
+    "header": "/components/header/header",
+    "records": "/pages/search/components/records/records",
+    "result": "/pages/search/components/result/result",
+    "topics": "/pages/search/components/topics/topics"
+  }
+}

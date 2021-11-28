@@ -1,0 +1,102 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "主页"
+			}
+		},
+		{
+			"path": "pages/square/square",
+			"style": {
+				"navigationBarTitleText": "广场"
+			}
+		}, {
+			"path": "pages/search/search",
+			"style": {
+				"navigationBarTitleText": "搜索"
+			}
+		}, {
+			"path": "pages/essayDetail/essayDetail",
+			"style": {
+				"navigationBarTitleText": "详情"
+			}
+		}, {
+			"path": "pages/chat/chat",
+			"style": {
+				"navigationBarTitleText": "Light"
+			}
+		}, {
+			"path": "pages/sideReply/sideReply",
+			"style": {
+				"navigationBarTitleText": "回复"
+			}
+		}, {
+			"path": "pages/collect/collect",
+			"style": {
+				"navigationBarTitleText": "我的收藏"
+			}
+		}, {
+			"path": "pages/sideConsult/sideConsult",
+			"style": {
+				"navigationBarTitleText": "咨询"
+			}
+		}, {
+			"path": "pages/aboutUs/aboutUs",
+			"style": {
+				"navigationBarTitleText": "关于我们"
+			}
+		}, {
+			"path": "pages/consult/consult",
+			"style": {
+				"navigationBarTitleText": "咨询"
+			}
+		}, {
+			"path": "pages/consultantInfo/consultantInfo",
+			"style": {
+				"navigationBarTitleText": "咨询"
+			}
+		}, {
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登陆"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "树洞",
+		"navigationBarBackgroundColor": "#CAE9FF",
+		"backgroundColor": "#ffffff"
+	},
+	"tabBar": {
+		"color": "#AAAAAA",
+		"selectedColor": "#5FA8D3",
+		"backgroundColor": "#FFFFFF",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabbar/sy1.png",
+				"selectedIconPath": "static/tabbar/sy2.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/square/square",
+				"iconPath": "static/tabbar/gc1.png",
+				"selectedIconPath": "static/tabbar/gc2.png",
+				"text": "广场"
+
+			}
+		]
+	},
+	"condition" : { //模式配置，仅开发期间生效
+		"current": 0, //当前激活的模式(list 的索引项)
+		"list": [
+			{
+				"name": "", //模式名称
+				"path": "", //启动页面，必选
+				"query": "" //启动参数，在页面的onLoad函数里面得到
+			}
+		]
+	}
+}

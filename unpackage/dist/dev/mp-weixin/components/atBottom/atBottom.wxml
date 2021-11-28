@@ -1,0 +1,1 @@
+<block wx:if="{{isAtBottom}}"><view class="at_bottom">到底了~</view></block>

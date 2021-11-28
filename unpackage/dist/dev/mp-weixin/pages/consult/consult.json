@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "咨询",
+  "usingComponents": {
+    "sortway-bar": "/components/sortwayBar/sortwayBar",
+    "consultants": "/pages/consult/consultants/consultants"
+  }
+}

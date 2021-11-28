@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "主页",
+  "usingComponents": {
+    "header": "/components/header/header",
+    "listen": "/pages/index/components/listen/listen",
+    "issue": "/pages/index/components/issue/issue",
+    "talk": "/pages/index/components/talk/talk",
+    "tabs": "/components/header/tabs/tabs",
+    "avator": "/components/header/avator/avator",
+    "search": "/components/header/search/search",
+    "side-bar": "/components/sideBar/sideBar"
+  }
+}

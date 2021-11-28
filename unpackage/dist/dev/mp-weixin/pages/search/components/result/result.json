@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "sortway-bar": "/components/sortwayBar/sortwayBar",
+    "essay": "/components/essay/essay"
+  }
+}

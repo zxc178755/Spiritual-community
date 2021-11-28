@@ -1,0 +1,60 @@
+
+.reply_item.data-v-6c34df94 {
+	padding: 20rpx;
+	padding-top: 0;
+	background-color: #fff;
+}
+.avator_con.data-v-6c34df94 {
+	padding-top: 20rpx;
+	width: 70rpx;
+	height: 70rpx;
+}
+.reply_info.data-v-6c34df94 {
+	border-top: 2rpx solid #ccc;
+	padding-top: 20rpx;
+	margin-top: 10rpx;
+	width: 610rpx;
+}
+.name_and_time .reply.data-v-6c34df94 {
+	font-weight: bold;
+	padding: 0 20rpx;
+	color: #5fa8d6;
+}
+.time.data-v-6c34df94 {
+	font-size: 24rpx;
+	color: #7f7f7f;
+}
+.clock.data-v-6c34df94 {
+	padding: 0 20rpx;
+}
+.content_and_like.data-v-6c34df94 {
+	margin: 10rpx 0;
+}
+.content.data-v-6c34df94 {
+	width: 494rpx;
+	color: #333333;
+}
+.like.data-v-6c34df94 {
+	color: #8a8a8a;
+	height: 40rpx;
+	line-height: 40rpx;
+}
+.like .iconfont.data-v-6c34df94 {
+	padding: 10rpx;
+	font-size: 40rpx;
+	position: relative;
+	top: 3rpx;
+}
+.like .icon-aixin1.data-v-6c34df94 {
+	color: red;
+}
+.reply_iner.data-v-6c34df94 {
+	color: #8a8a8a;
+}
+.reply_iner .iconfont.data-v-6c34df94 {
+	padding: 10rpx;
+	font-size: 42rpx;
+	position: relative;
+	top: 3rpx;
+}
+

@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "reply": "/pages/essayDetail/commons/reply/reply",
+    "reply-box": "/components/replyBox/replyBox"
+  }
+}

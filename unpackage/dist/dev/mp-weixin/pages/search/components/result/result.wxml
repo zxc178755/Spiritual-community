@@ -1,0 +1,1 @@
+<view class="results_con"><view class="sortway_bar"><sortway-bar bind:changeSortway="__e" vue-id="4e1eb9d2-1" data-event-opts="{{[['^changeSortway',[['changeSortway']]]]}}" bind:__l="__l"></sortway-bar></view><essay vue-id="4e1eb9d2-2" bind:__l="__l"></essay></view>

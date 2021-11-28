@@ -1,0 +1,36 @@
+
+.records_con.data-v-66b2bc9a {
+	width: 700rpx;
+	margin: 0 auto;
+	padding-top: 20rpx;
+}
+.records_con .title.data-v-66b2bc9a {
+	color: #000;
+	font-weight: bold;
+	font-size: 32rpx;
+	margin: 24rpx 0;
+}
+.clear_records.data-v-66b2bc9a {
+	font-size: 28rpx;
+	font-weight: normal;
+	color: #555555;
+	padding: 0 8rpx;
+}
+.group.data-v-66b2bc9a {
+	width: 714rpx;
+	display: flex;
+	flex-wrap: wrap;
+}
+.select_item.data-v-66b2bc9a {
+	height: 56rpx;
+	line-height: 56rpx;
+	padding: 0 26rpx;
+	margin-bottom: 22rpx;
+	margin-right: 18rpx;
+	background-color: #d7d7d7;
+	color: #484848;
+}
+.select_item.data-v-66b2bc9a:active {
+	background-color: #a5a5a5;
+}
+

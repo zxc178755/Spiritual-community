@@ -1,0 +1,10 @@
+
+.at_bottom {
+	width: 100%;
+	text-align: center;
+	margin-top: 12rpx;
+	font-size: 30rpx;
+	color: #757575;
+	padding-bottom: 12rpx;
+}
+

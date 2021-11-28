@@ -1,0 +1,48 @@
+
+.consultants {
+	padding: 60rpx;
+	padding-top: 10rpx;
+}
+.consultant {
+	border: 2rpx solid #ccc;
+	border-radius: 14rpx;
+	background-color: #fff;
+	box-shadow: 0 0 4rpx 0 #ccc;
+	display: flex;
+	align-items: center;
+	width: 600rpx;
+	height: 160rpx;
+	padding: 20rpx;
+	padding-right: 10rpx;
+	margin-bottom: 20rpx;
+}
+.consultant image {
+	width: 130rpx;
+	height: 130rpx;
+	border-radius: 50%;
+	margin-right: 20rpx;
+}
+.info {
+	width: 420rpx;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	font-size: 28rpx;
+}
+.name {
+	font-size: 32rpx;
+}
+.position {
+	color: #5fa8d3;
+	padding: 10rpx 0;
+}
+.good_at_text {
+	color: #5fa8d3;
+}
+.good_at_item {
+	padding-right: 10rpx;
+}
+.iconfont {
+	font-size: 38rpx;
+}
+

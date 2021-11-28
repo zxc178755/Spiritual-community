@@ -1,0 +1,8 @@
+
+.collect_con{
+	width: 100vw;
+	min-height: 100vh;
+	background-color: #f2f2f2;
+	padding: 20rpx 0;
+}
+

@@ -1,0 +1,44 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/square/square",
+    "pages/search/search",
+    "pages/essayDetail/essayDetail",
+    "pages/chat/chat",
+    "pages/sideReply/sideReply",
+    "pages/collect/collect",
+    "pages/sideConsult/sideConsult",
+    "pages/aboutUs/aboutUs",
+    "pages/consult/consult",
+    "pages/consultantInfo/consultantInfo",
+    "pages/login/login"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "树洞",
+    "navigationBarBackgroundColor": "#CAE9FF",
+    "backgroundColor": "#ffffff"
+  },
+  "tabBar": {
+    "color": "#AAAAAA",
+    "selectedColor": "#5FA8D3",
+    "backgroundColor": "#FFFFFF",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tabbar/sy1.png",
+        "selectedIconPath": "static/tabbar/sy2.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/square/square",
+        "iconPath": "static/tabbar/gc1.png",
+        "selectedIconPath": "static/tabbar/gc2.png",
+        "text": "广场"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap49.json"
+}

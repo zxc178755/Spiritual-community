@@ -1,0 +1,52 @@
+
+.essay_cards {
+	width: 640rpx;
+	margin: 0 auto;
+	margin-top: 10rpx;
+	padding-bottom: 14rpx;
+}
+.card {
+	height: 212rpxs;
+	display: flex;
+	margin-bottom: 30rpx;
+	background-color: #ffffff;
+	padding: 26rpx 14rpx;
+	border-radius: 10rpx;
+	box-shadow: 4rpx 4rpx 6rpx 0 rgba(170, 170, 170, 0.5);
+}
+.card .left_part {
+	width: 372rpx;
+}
+.content {
+	font-size: 30rpx;
+	padding-right: 10rpx;
+	color: #333333;
+	font-weight: bold;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 2;
+	overflow: hidden;
+}
+.card .right_part {
+	/* position: relative; */
+	width: 240rpx;
+	height: 160rpx;
+	display: block;
+	border-radius: 8rpx;
+}
+.common_num {
+	margin-top: 40rpx;
+	font-size: 26rpx;
+	color: #555555;
+	height: 40rpx;
+	line-height: 40rpx;
+}
+.icon {
+	padding: 0 8rpx;
+	color: #000;
+	font-size: 40rpx;
+	position: relative;
+	top: 2rpx;
+}
+

@@ -1,0 +1,36 @@
+
+.records_con.data-v-ef8af058 {
+	width: 700rpx;
+	margin: 0 auto;
+	padding-top: 20rpx;
+}
+.records_con .title.data-v-ef8af058 {
+	color: #000;
+	font-weight: bold;
+	font-size: 32rpx;
+	margin: 24rpx 0;
+}
+.clear_records.data-v-ef8af058 {
+	font-size: 28rpx;
+	font-weight: normal;
+	color: #555555;
+	padding: 0 8rpx;
+}
+.group.data-v-ef8af058 {
+	padding: 0 20rpx;
+}
+.select_item.data-v-ef8af058 {
+	padding: 8rpx 0;
+	width: 640rpx;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+.select_item text.data-v-ef8af058 {
+	font-size: 30rpx;
+	padding-right: 10rpx;
+}
+.select_item.data-v-ef8af058:active {
+	background-color: #c3c3c3;
+}
+

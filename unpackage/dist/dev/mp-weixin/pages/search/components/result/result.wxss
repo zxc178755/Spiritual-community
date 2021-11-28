@@ -1,0 +1,9 @@
+
+.results_con {
+	padding-top: 20rpx;
+}
+.sortway_bar{
+	display: flex;
+	padding-left: 20rpx;
+}
+

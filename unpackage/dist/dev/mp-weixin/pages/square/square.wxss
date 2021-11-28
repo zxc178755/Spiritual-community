@@ -1,0 +1,58 @@
+
+.square_con.data-v-6eb7b326 {
+	width: 100vw;
+	min-height: 100vh;
+	padding-bottom: 20rpx;
+	background-color: #f2f2f2;
+}
+.distribute_con.data-v-6eb7b326 {
+	height: 208rpx;
+	box-sizing: border-box;
+	padding: 20rpx;
+	margin-bottom: 10rpx;
+}
+.items.data-v-6eb7b326 {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+.item.data-v-6eb7b326 {
+	text-align: center;
+	border-radius: 10rpx;
+	padding: 6rpx 0;
+	width: 140rpx;
+}
+.items .selected.data-v-6eb7b326 {
+	background-color: #cae9ff;
+}
+.item .icon.data-v-6eb7b326 {
+	border-radius: 50%;
+	height: 120rpx;
+	width: 120rpx;
+	box-sizing: border-box;
+	display: inline-block;
+	text-align: center;
+	line-height: 120rpx;
+	background-color: #fff;
+	border: 1px solid #ccc;
+	padding: 20rpx;
+}
+.item .text.data-v-6eb7b326 {
+	font-size: 28rpx;
+	padding-top: 6rpx;
+}
+.essays_con.data-v-6eb7b326 {
+	width: 100vw;
+}
+.sort_bar.data-v-6eb7b326 {
+	margin-top: 10rpx;
+	height: 80rpx;
+	background-color: #fff;
+	padding: 20rpx;
+	box-sizing: border-box;
+	border-bottom: 1rpx solid #ccc;
+	background-color: #fff;
+	display: flex;
+	align-items: center;
+}
+

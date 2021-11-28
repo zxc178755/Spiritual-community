@@ -1,0 +1,9 @@
+
+.screen_bar {
+	padding: 0 40rpx;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-bottom: 10rpx;
+}
+

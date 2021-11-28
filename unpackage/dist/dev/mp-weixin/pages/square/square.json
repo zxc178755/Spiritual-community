@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "广场",
+  "usingComponents": {
+    "essay": "/pages/square/essay/essay",
+    "sortway-bar": "/components/sortwayBar/sortwayBar"
+  }
+}

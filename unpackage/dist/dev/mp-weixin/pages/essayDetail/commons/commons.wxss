@@ -1,0 +1,61 @@
+
+.commons_con.data-v-725809f7 {
+	padding-bottom: 20rpx;
+}
+.common_item.data-v-725809f7 {
+	padding: 20rpx;
+	padding-bottom: 0rpx;
+	background-color: #fff;
+	margin-top: 6rpx;
+}
+.avator_con.data-v-725809f7 {
+	width: 70rpx;
+	height: 70rpx;
+}
+.avator.data-v-725809f7 {
+	width: 70rpx;
+	height: 70rpx;
+	border-radius: 50%;
+}
+.common_info.data-v-725809f7 {
+	width: 610rpx;
+}
+.name_and_time.data-v-725809f7 {}
+.time.data-v-725809f7 {
+	font-size: 24rpx;
+	color: #7f7f7f;
+}
+.clock.data-v-725809f7 {
+	padding: 0 20rpx;
+}
+.content_and_like.data-v-725809f7 {
+	margin: 10rpx 0;
+}
+.content.data-v-725809f7 {
+	width: 494rpx;
+	color: #333333;
+}
+.like.data-v-725809f7 {
+	color: #8a8a8a;
+	height: 40rpx;
+	line-height: 40rpx;
+}
+.like .iconfont.data-v-725809f7 {
+	padding: 10rpx;
+	font-size: 40rpx;
+	position: relative;
+	top: 3rpx;
+}
+.like .icon-aixin1.data-v-725809f7 {
+	color: red;
+}
+.reply_iner.data-v-725809f7 {
+	color: #8a8a8a;
+}
+.reply_iner .iconfont.data-v-725809f7 {
+	padding: 10rpx;
+	font-size: 42rpx;
+	position: relative;
+	top: 3rpx;
+}
+

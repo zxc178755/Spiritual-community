@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "group": "/pages/index/components/listen/group/group",
+    "robot": "/components/robot/robot"
+  }
+}

@@ -1,0 +1,62 @@
+
+.consult_ways.data-v-0eb53944 {
+	background-color: #b1ddfe;
+	height: 400rpx;
+	border-top-left-radius: 30rpx;
+	border-top-right-radius: 30rpx;
+	margin-top: 34rpx;
+	padding: 20rpx 30rpx;
+	color: #6baed6;
+	font-weight: bold;
+}
+.title.data-v-0eb53944 {
+	text-align: center;
+	font-size: 32rpx;
+	font-weight: bold;
+}
+.iconfont.data-v-0eb53944 {
+	color: #3a9ced;
+	font-size: 50rpx;
+	padding-right: 20rpx;
+}
+.min_buttons.data-v-0eb53944 {
+	width: 600rpx;
+	margin: 0 auto;
+	margin-top: 20rpx;
+}
+.consult_by_phone.data-v-0eb53944 {
+	width: 280rpx;
+	height: 100rpx;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border: 2rpx solid #ccc;
+	border-radius: 8rpx;
+	background-color: #fff;
+}
+.big_buttons.data-v-0eb53944 {
+	width: 600rpx;
+	margin: 0 auto;
+	margin-top: 30rpx;
+}
+.consult_by_face.data-v-0eb53944 {
+	height: 100rpx;
+	justify-content: center;
+	display: flex;
+	align-items: center;
+	border: 2rpx solid #ccc;
+	border-radius: 8rpx;
+	background-color: #fff;
+}
+.toConsult.data-v-0eb53944 {
+	width: 240rpx;
+	height: 70rpx;
+	background-color: #20e3b2;
+	border-radius: 30rpx;
+	text-align: center;
+	line-height: 70rpx;
+	color: #fff;
+	font-size: 32rpx;
+	margin-top: 24rpx;
+}
+

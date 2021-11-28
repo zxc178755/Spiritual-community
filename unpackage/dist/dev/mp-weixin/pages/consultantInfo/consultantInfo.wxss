@@ -1,0 +1,103 @@
+
+.top_part {
+	display: flex;
+	align-items: center;
+	background-color: #fff;
+	border: 2rpx solid #ccc;
+	border-top: 0;
+	border-bottom-left-radius: 30rpx;
+	border-bottom-right-radius: 30rpx;
+	padding: 30rpx 34rpx;
+}
+.top_part image {
+	width: 140rpx;
+	height: 140rpx;
+	border-radius: 50%;
+	display: block;
+	margin-right: 20rpx;
+}
+.name_occupation {
+	width: 320rpx;
+	margin-right: 20rpx;
+	font-size: 32rpx;
+	font-weight: bold;
+}
+.occupation {
+	font-weight: normal;
+	font-size: 28rpx;
+	margin-top: 10rpx;
+	color: #71b2d8;
+}
+.private_letter {
+	border: 2rpx solid #ccc;
+	border-radius: 10rpx;
+	width: 180rpx;
+	height: 80rpx;
+	line-height: 80rpx;
+	text-align: center;
+}
+.private_letter .iconfont {
+	color: #437dff;
+	font-size: 38rpx;
+	position: relative;
+	top: 2rpx;
+	padding-right: 20rpx;
+}
+
+/* 资质认证等 */
+.qualifications_con,
+.good_at_con,
+.consult_obj {
+	margin: 0 auto;
+	padding: 0 34rpx;
+	margin-top: 30rpx;
+}
+.title .iconfont {
+	color: #1677ff;
+	font-size: 50rpx;
+	margin-right: 10rpx;
+}
+.info_card {
+	border-radius: 8rpx;
+	margin: 0 auto;
+	background-color: #fff;
+	margin-top: 4rpx;
+	padding: 20rpx;
+	box-shadow: 0 0 4rpx 0 #ccc;
+}
+.occupation_certification {
+	margin-top: 8rpx;
+}
+.occupations {
+	border: 2rpx solid var(--themeColor);
+	border-radius: 10rpx;
+	padding: 10rpx 0;
+	margin-top: 6rpx;
+}
+.occupations .item {
+	height: 50rpx;
+	line-height: 50rpx;
+	text-align: center;
+}
+.good_at_con .item {
+	display: flex;
+	margin-bottom: 20rpx;
+}
+.good_at_con .item:last-child {
+	margin-bottom: 0;
+}
+.main_tile {
+	width: 160rpx;
+	height: 60rpx;
+	text-align: center;
+	line-height: 60rpx;
+	color: #fff;
+	background-color: #5fa8d3;
+	border-radius: 30rpx;
+	margin-right: 16rpx
+}
+.detail {
+	width: 476rpx;
+	padding: 10rpx 0;
+}
+

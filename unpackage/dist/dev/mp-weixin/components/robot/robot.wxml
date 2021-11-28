@@ -1,0 +1,1 @@
+<view class="robot_con data-v-207c7bcc"><image src="../../static/robot.svg" mode="widthFix" data-event-opts="{{[['tap',[['toChat',['$event']]]]]}}" bindtap="__e" class="data-v-207c7bcc"></image><view class="{{['data-v-207c7bcc',(true)?'word_con':'',(isShowWord)?'show_word':'']}}">{{''+(word?word:'I am here !')+''}}</view></view>
